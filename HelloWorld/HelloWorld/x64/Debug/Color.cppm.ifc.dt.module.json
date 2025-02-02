@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\taylo\\source\\repos\\helloworld\\helloworld\\color.cppm",
+        "ProvidedModule": "color",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

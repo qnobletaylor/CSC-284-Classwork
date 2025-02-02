@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\HelloWorld.obj",
+            "outputs": [
+                "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

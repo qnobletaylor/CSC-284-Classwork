@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\taylo\\source\\repos\\helloworld\\helloworld\\fizzbuzz.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.42.34433\\include\\iostream",
+                "BMI": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\x64\\Debug\\iostream_7OV9P1XNQHSZYPX2.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.42.34433\\include\\format",
+                "BMI": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\x64\\Debug\\format_MWDTO6CSAJ0B3681.ifc"
+            }
+        ]
+    }
+}

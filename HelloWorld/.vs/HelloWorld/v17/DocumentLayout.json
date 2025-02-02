@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724AE4EE-FD43-4043-B621-C66D69DD3268}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\Color.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{724AE4EE-FD43-4043-B621-C66D69DD3268}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Color.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724AE4EE-FD43-4043-B621-C66D69DD3268}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\Employee.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{724AE4EE-FD43-4043-B621-C66D69DD3268}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Employee.cppm||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cppm",
+              "DocumentMoniker": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\Employee.cppm",
+              "RelativeDocumentMoniker": "HelloWorld\\Employee.cppm",
+              "ToolTip": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\Employee.cppm",
+              "RelativeToolTip": "HelloWorld\\Employee.cppm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-02-01T15:37:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Color.cppm",
+              "DocumentMoniker": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\Color.cppm",
+              "RelativeDocumentMoniker": "HelloWorld\\Color.cppm",
+              "ToolTip": "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\Color.cppm",
+              "RelativeToolTip": "HelloWorld\\Color.cppm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-02-01T15:27:34.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

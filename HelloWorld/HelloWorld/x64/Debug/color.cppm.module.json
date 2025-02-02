@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Color.cppm.obj",
+            "outputs": [
+                "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\taylo\\source\\repos\\HelloWorld\\HelloWorld\\x64\\Debug\\Color.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "color",
+                    "source-path": "c:\\users\\taylo\\source\\repos\\helloworld\\helloworld\\color.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
